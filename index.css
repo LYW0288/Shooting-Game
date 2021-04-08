@@ -1,0 +1,7 @@
+@font-face{
+    font-family: 'misaki';
+    src: url('misaki.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+html, body {font-family: "misaki";}
